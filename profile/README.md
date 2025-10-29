@@ -13,5 +13,6 @@ A collaborative hub created by Project to foster community-driven development. T
 
 Connect with our growing network of developers and innovators:
 
-- [Visit DevSpace Website](https://DevelopmentSpace.pages.dev)
-- [Join DevSpace Discord](https://discord.gg/EzHu6tw5PQ)
+[![Visit DevSpace Website](https://img.shields.io/badge/Visit%20Website-000?style=for-the-badge&logo=google-chrome)](https://DevelopmentSpace.pages.dev)
+[![Join DevSpace Discord](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EzHu6tw5PQ)
+
