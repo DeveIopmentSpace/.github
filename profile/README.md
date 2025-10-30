@@ -4,8 +4,7 @@
 
 **Created by Project**
 
-DevSpace is a collaborative hub where developers can connect, share, and showcase their work.  
-It serves as a community-driven platform that helps developers:
+DevSpace is a collaborative hub where DevSpace developers can connect, share, and showcase their work.  
 
 - Share and highlight their projects  
 - Collaborate with other members  
