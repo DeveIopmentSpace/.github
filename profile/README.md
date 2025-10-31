@@ -1,5 +1,5 @@
 
-<img width="1024" height="1024" alt="DevSpacenoBGLogoonly" src="https://github.com/user-attachments/assets/c43f4ce7-e53e-4be7-abc4-6073aa10538c" />
+<img width="1024" height="1024" alt="DevSpacenoBG" src="https://github.com/user-attachments/assets/366b07fb-926b-4642-b038-0c8609478f4b" />
 
 
 # DevSpace (Development Space)
