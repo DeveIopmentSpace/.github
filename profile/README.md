@@ -4,12 +4,7 @@
 
 # DevSpace (Development Space)
 
-DevSpace is a collaborative hub where DevSpace developers can connect, share, and showcase their work.  
-
-- Share and highlight their projects    
-- Manage and organize repositories  
-- Build valuable connections in the development ecosystem  
-- Create useful projects that assist people with their operating systems.
+DevSpace is an organization that hosts multiple projects created by our developers. These projects are designed to help users and enhance the overall experience on Windows, GNU/Linux, and, to some extent, macOS.
 
 ## Join Our Community
 
