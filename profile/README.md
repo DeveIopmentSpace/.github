@@ -4,7 +4,7 @@
 
 # DevSpace (Development Space)
 
-DevSpace is an organization that hosts multiple projects created by our developers. These projects are designed to help users and enhance the overall experience on Windows, GNU/Linux, and, to some extent, macOS.
+DevSpace is an organization that hosts multiple projects created by our developers. These projects are designed to help users and enhance the overall experience on Windows, Linux, and, to some extent, macOS.
 
 ## Join Our Community
 
